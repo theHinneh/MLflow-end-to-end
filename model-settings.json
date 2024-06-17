@@ -1,0 +1,5 @@
+{
+  "name": "Apple_RF_Model",
+  "version": "v1.0.0",
+  "implementation": "mlserver_mlflow.MLflowRuntime"
+}

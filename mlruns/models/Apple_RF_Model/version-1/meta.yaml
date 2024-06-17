@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718639528368
+current_stage: None
+description: ''
+last_updated_timestamp: 1718639528368
+name: Apple_RF_Model
+run_id: e8a58efacf8844449afd9c64b76935b9
+run_link: ''
+source: mlflow-artifacts:/698065155199050085/e8a58efacf8844449afd9c64b76935b9/artifacts/rf_apples
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/698065155199050085/e8a58efacf8844449afd9c64b76935b9/artifacts/rf_apples
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/698065155199050085/e8a58efacf8844449afd9c64b76935b9/artifacts
+end_time: 1718639217677
+entry_point_name: ''
+experiment_id: '698065155199050085'
+lifecycle_stage: active
+run_id: e8a58efacf8844449afd9c64b76935b9
+run_name: apples_rf_test
+run_uuid: e8a58efacf8844449afd9c64b76935b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718639209549
+status: 3
+tags: []
+user_id: emmanuelhinneh
